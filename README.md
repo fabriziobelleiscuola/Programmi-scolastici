@@ -1,31 +1,70 @@
-Ultima versione del programma creato da Fabrizio Bellei, per creare gruppi classe equi-eterogenei.
-Questa versione 2026 fa tesoro delle esperienze di uso del programma in contesti scolastici diversi e offre di nuovo la possibilità di introdurre fino a 26 scuole di provenienza; naturalmente rimane la possibilità di salvare i file in modalità testuale (estensione ".txt" oppure ".csv").
-In questa versione, l'elenco degli alunni può essere prelevato da un file EXCEL.
-
-
-Ricordiamo di seguito le caratteristiche principali del programma.
-
-1)	Possibilità di indicare un numero minimo di alunni/studenti con disabilità nelle classi.
-I criteri di distribuzione degli alunni sono essenzialmente due:
-2)	Ordinamento basato su FASCIA, GENERE, PROVENIENZA (eventualmente personalizzabili a piacere). Questa tipologia di ordinamento porta automaticamente ad avere classi migliori sotto il profilo dell'equi-eterogeneità, tuttavia non può tenere conto delle richieste delle famiglie e delle indicazioni degli insegnanti delle classi di provenienza. 
-3)	Ottimizzazione (anche ad oltranza) per trovare le condizioni che soddisfano in misura maggiore le richieste delle famiglie e l'omogenea eterogeneità. 
-In tutti i casi l'utente ha sempre la possibilità di intervenire manualmente per migliorare ulteriormente i risultati.
-4) 	Possibilità di introdurre fino a 26 scuole di provenienza;	
-
-Ulteriori funzioni, per evitare dei gruppi classe squilibrati, sono: 
-1)	blocco degli alunni in determinati gruppi classe perché non vengano elaborati;
-2)	segnalazione di alunni bisognosi di un'alfabetizzazione di base;
-3)	segnalazione di alunni con disabilità o in situazione di disagio scolastico;
-4)	segnalazione di alunni "DA";	
-5)      grafici esplicativi dei risultati ottenuti;
-6)	È possibile controllare la coerenza degli elenchi e la presenza di doppioni tra i nomi introdotti.
-7)      Indicazione delle richieste soddisfatte.
-        Possibilità di introdurre diverse tipologie di alunni: BES, DSA, DA, RIPETENTE, DA ALFABETIZZARE; "X" "Y" e "Z" sono LIBERE per le necessità SPECIALI o PERSONALI della scuola che non trovano un'adeguata collocazione nelle catalogazioni riservate di cui sopra.
-
-
-È possibile stampare i risultati direttamente oppure esportarli in Ms-Excel, Ms-Word (ovviamente dove è installato il pacchetto OFFICE).
-È possibile inoltre salvare i gruppi elaborati, come elenchi tabulati immediatamente utilizzabili, in un documento Ms-Word (sempre che quest'ultimo software sia installato).
-Oltre a ciò, si possono esportare i gruppi-classe in formato PowerPoint (il programma crea automaticamente le diapositive da proiettare), BMP e JPG per creare presentazioni atte a mostrare gli elenchi agli organi competenti.
-Nella cartella di installazione viene creato un file ("File di Test_Prova.csv" ) con un elenco di nomi di fantasia, utile per effettuare prove e familiarizzare con il programma. Eventuali omonimie sono da considerarsi del tutto casuali.
-
-Il programma funziona con i sistemi Windows, da Windows 7 a Windows 11 (anche con i sistemi a 64 bit) comprese le verioni SERVER e con i pacchetti "Office" da Office 97 sino a Office 2024 compreso OFFICE 365, inclusi i pacchetti OFFICE a 64 bit.
+🎓 Programma per la creazione di gruppi classe equi eterogenei
+Autore: Fabrizio Bellei
+Versione: 2026
+Questo software è progettato per supportare le scuole nella formazione di gruppi classe equilibrati, tenendo conto di criteri pedagogici, esigenze specifiche e richieste delle famiglie.
+La versione 2026 integra l’esperienza maturata in diversi contesti scolastici e reintroduce la possibilità di gestire fino a 26 scuole di provenienza.
+È inoltre possibile importare direttamente gli elenchi degli alunni da file Excel.
+________________________________________
+✨ Caratteristiche principali
+✔️ Criteri di distribuzione
+Il programma permette due modalità di elaborazione:
+•	Ordinamento automatico basato su:
+o	Fascia
+o	Genere
+o	Provenienza
+(tutti personalizzabili)
+Questa modalità produce gruppi classe naturalmente equi eterogenei.
+•	Ottimizzazione avanzata 
+Ricerca automatica (anche prolungata) della combinazione che soddisfa al meglio:
+o	richieste delle famiglie
+o	indicazioni degli insegnanti
+o	equilibrio complessivo dei gruppi
+In ogni momento l’utente può intervenire manualmente per migliorare ulteriormente il risultato.
+________________________________________
+🧩 Gestione delle tipologie di alunni
+È possibile indicare:
+•	Alunni con disabilità
+•	Alunni con bisogni educativi speciali (BES)
+•	DSA
+•	DA
+•	Ripetenti
+•	Alunni da alfabetizzare
+•	3 categorie personalizzabili (X, Y, Z) per esigenze specifiche della scuola
+Il programma consente inoltre di:
+•	bloccare alcuni alunni in determinati gruppi
+•	segnalare situazioni di disagio
+•	evitare squilibri significativi tra le classi
+________________________________________
+📊 Funzioni aggiuntive
+•	Grafici esplicativi dei risultati
+•	Controllo automatico di: 
+o	coerenza degli elenchi
+o	presenza di doppioni
+•	Indicazione delle richieste soddisfatte
+•	Possibilità di introdurre fino a 26 scuole di provenienza
+________________________________________
+📤 Esportazione e stampa
+I risultati possono essere:
+•	stampati direttamente
+•	esportati in: 
+o	Excel
+o	Word
+o	PowerPoint (creazione automatica delle diapositive)
+o	BMP
+o	JPG
+•	salvati come file testuali .txt o .csv
+Nella cartella di installazione è incluso un file di prova (File di Test_Prova.csv) con nomi di fantasia per familiarizzare con il programma.
+________________________________________
+💻 Compatibilità
+Il software funziona con:
+•	Windows 7 → Windows 11 (inclusi sistemi a 64 bit e versioni Server)
+•	Microsoft Office 97 → Office 2024, incluso Office 365
+•	Compatibile anche con Office a 64 bit
+________________________________________
+📥 Download
+👉 https://github.com/fabriziobelleiscuola/Programmi-scolastici/blob/main/Formazione%20Classi%20Prime%20Installer.zip
+________________________________________
+📧 Contatti
+Per segnalazioni, suggerimenti o richieste:
+Fabrizio Bellei – fabrizio.bellei.scuola@gmail.com
+________________________________________
